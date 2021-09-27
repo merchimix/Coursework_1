@@ -703,7 +703,7 @@ sns.histplot(students.age)
 
 
     
-![png](output_20_1.png)
+![output_20_1](https://user-images.githubusercontent.com/73818584/134919534-9b7daa5b-c879-42a5-9187-85498ac2e9fd.png)
     
 
 
