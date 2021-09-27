@@ -697,7 +697,6 @@ sns.histplot(students.age)
 
 
 
-    <AxesSubplot:xlabel='age', ylabel='Count'>
 
 
 
@@ -802,13 +801,13 @@ sns.histplot(correct_ages_students.age)
 
 
 
-    <AxesSubplot:xlabel='age', ylabel='Count'>
+ 
 
 
 
 
     
-![png](output_24_1.png)
+![output_24_1](https://user-images.githubusercontent.com/73818584/134919753-2f7a5aba-538f-47c8-81a6-dd6e4cae1a7e.png)
     
 
 
@@ -999,7 +998,7 @@ plt.show()
 
 
     
-![png](output_28_0.png)
+![output_28_0](https://user-images.githubusercontent.com/73818584/134919817-1c92f33f-074f-4bfd-ba42-dfa6afc43248.png)
     
 
 
@@ -1032,7 +1031,7 @@ plt.box(on=None)
 
 
     
-![png](output_30_0.png)
+![output_30_0](https://user-images.githubusercontent.com/73818584/134919840-76d23a77-53ad-4b09-b042-d176f45db128.png)
     
 
 
@@ -1209,7 +1208,7 @@ plt.show()
 
 
     
-![png](output_37_0.png)
+![output_37_0](https://user-images.githubusercontent.com/73818584/134919869-300d8687-f2c7-47e6-822c-d235b9de3d7d.png)
     
 
 
@@ -1286,7 +1285,7 @@ plt.show()
 
 
     
-![png](output_43_0.png)
+![output_43_0](https://user-images.githubusercontent.com/73818584/134919919-c5ac81a9-4135-4fb6-80c3-db02e3751783.png)
     
 
 
@@ -1312,7 +1311,7 @@ plt.show()
 
 
     
-![png](output_45_0.png)
+![output_45_0](https://user-images.githubusercontent.com/73818584/134919940-7ec4ad93-f527-438a-8efd-1471a3ebd27e.png)
     
 
 
@@ -1767,7 +1766,7 @@ plt.show()
 
 
     
-![png](output_56_0.png)
+![output_56_0](https://user-images.githubusercontent.com/73818584/134919985-0dfe3e1d-acc3-4896-8ef5-6a10c89f3c20.png)
     
 
 
@@ -2068,7 +2067,7 @@ plt.show()
 
 
     
-![png](output_60_0.png)
+![output_60_0](https://user-images.githubusercontent.com/73818584/134920008-8a42c323-316a-490d-a45a-b0cb6a078813.png)
     
 
 
@@ -2171,7 +2170,7 @@ plt.show()
 
 
     
-![png](output_68_0.png)
+![output_68_0](https://user-images.githubusercontent.com/73818584/134920045-991e7fe7-93ca-49e6-98eb-60ffeb2bf541.png)
     
 
 
@@ -2224,7 +2223,7 @@ fig.tight_layout()
 
 
     
-![png](output_70_0.png)
+![output_70_0](https://user-images.githubusercontent.com/73818584/134920089-ca1ee2eb-4bac-4a43-8b48-5f21099d4083.png)
     
 
 
